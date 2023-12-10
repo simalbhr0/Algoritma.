@@ -1,0 +1,2 @@
+# Algoritma.
+deşifre problemi
